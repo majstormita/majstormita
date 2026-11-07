@@ -1,4 +1,7 @@
-## Hi there 👋
+## Certificates
+
+[![Cisco CCNA: Introduction to Networks](IMAGE_URL_1)](https://www.credly.com/badges/9f8377a1-6f0f-483b-b06d-a5c080ccaacb)
+
 
 <!--
 **majstormita/majstormita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
