@@ -1,6 +1,6 @@
 ## Certificates
 
-[![Cisco CCNA: Introduction to Networks](IMAGE_URL_1)](https://www.credly.com/badges/9f8377a1-6f0f-483b-b06d-a5c080ccaacb)
+[![Cisco CCNA: Introduction to Networks](https://images.credly.com/size/680x680/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png)](https://www.credly.com/badges/9f8377a1-6f0f-483b-b06d-a5c080ccaacb)
 
 
 <!--
