@@ -1,5 +1,6 @@
 ## Certificates
 
+<h2>Linux Essentials</h2>
 <a href="https://www.credly.com/badges/9f8377a1-6f0f-483b-b06d-a5c080ccaacb"><img src="https://images.credly.com/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png" alt="Linux Essentials" width="100"></a>
 </br>
 <a href="https://www.credly.com/badges/0c09d154-b1fb-442c-8caa-f35b84fe5508"><img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="100"></a>
