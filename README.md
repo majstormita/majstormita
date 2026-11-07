@@ -1,6 +1,7 @@
 ## Certificates
 
-[![Cisco CCNA: Introduction to Networks](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/a13fbb93-0c90-40a2-9de3-e65ab2c23a7c.png)](https://www.credly.com/badges/9f8377a1-6f0f-483b-b06d-a5c080ccaacb)
+<a href="https://www.credly.com/badges/9f8377a1-6f0f-483b-b06d-a5c080ccaacb"><img src="[IMAGE_URL_1](https://images.credly.com/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png)" alt="Cisco CCNA: Introduction to Networks" width="100"></a>
+
 
 
 <!--
